@@ -129,7 +129,7 @@ By this point you should have a good understanding to tackle the following lesso
 - [ ] *Nesting For Loops **_Probably will not use often here_**
 - [ ] *Iterate with JavaScript Do...While Loops **_Only occasionally useful_**
 
-## Miscellaneous
+### Miscellaneous
 - [ ] *Generate Random Whole Numbers within a Range
 - [ ] *Use the parseInt Function
 - [ ] *Prevent Object Mutation

@@ -120,6 +120,22 @@ _We typically use ES6 in our projects. Which means you will see a lot of these, 
 - [ ] *Use the Spread Operator to Evaluate Arrays In-Place
 - [ ] *Use Destructuring Assignment to Assign Variables from Objects **_You are likely to encounter this in React code_**
 - [ ] Create Strings using Template Literals
+- [ ] Understand the Differences Between import and require
+- [ ] Use export to Reuse a Code Block
+- [ ] Use * to Import Everything from a File
+- [ ] Create an Export Fallback with export default
+- [ ] Import a Default Export
 
-## Scopes
-- [ ] *Compare Scopes of the var and let Keywords
+## Debugging
+- [ ] Introduction to the Debugging Challenges
+- [ ] Use the JavaScript Console to Check the Value of a Variable
+- [ ] Use typeof to Check the Type of a Variable
+- [ ] Catch Misspelled Variable and Function Names
+- [ ] Catch Unclosed Parentheses, Brackets, Braces and Quotes
+- [ ] Catch Mixed Usage of Single and Double Quotes **_We prefer to use single quotes in javascript_**
+- [ ] Catch Use of Assignment Operator Instead of Equality Operator
+- [ ] Catch Missing Open and Closing Parenthesis After a Function Call
+- [ ] Catch Arguments Passed in the Wrong Order When Calling a Function
+- [ ] Catch Off By One Errors When Using Indexing
+- [ ] Use Caution When Reinitializing Variables Inside a Loop
+- [ ] Prevent Infinite Loops with a Valid Terminal Condition

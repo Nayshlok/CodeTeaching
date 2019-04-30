@@ -1,6 +1,8 @@
-# Javascript By Subject 
+# Javascript Path 
 
 Important javascript topics, sorted by subject they cover. Not all are required, I tried to keep the required to the minimum that you need to have a basic understanding.
+
+This is a suggested path that jumps around to try and get you what you need in the easiest and fastest path.
 
 [Free Code Camp](https://learn.freecodecamp.org/) 
 
@@ -8,52 +10,60 @@ Important javascript topics, sorted by subject they cover. Not all are required,
 2. Open the parent section "Javascript Algorithms And Data Structures Certification"
 3. Open "Basic JavaScript"
 
-## Variables
+## Primary
+
+### Storing Data
 - [ ] Declare Javascript Variables
 - [ ] Storing Values with the Assignment Operator
 - [ ] Initializing Variables with the Assignment Operator
 - [ ] Understanding Uninitialized Variables
 - [ ] Understanding Case Sensitivity in Variables
+- [ ] Declare String Variables (Our code conventions use single quotes)
+- [ ] Escape Sequences in Strings
+- [ ] Concatenating Strings with Plus Operator
+- [ ] Understand String Immutability
+- [ ] Store Multiple Values in one Variable using JavaScript Arrays (javascript allows storing multiple types. We typically store one type of data per array)
+- [ ] Access Array Data with Indexes
+- [ ] Modify Array Data With Indexes (Note the connection between this and immutability of strings)
 
-## Operators
+### Functions
+- [ ] Write Reusable JavaScript with Functions
+- [ ] Passing Values to Functions with Arguments
+- [ ] Assignment with a Returned Value
+- [ ] Manipulate Arrays With push()
+- [ ] Manipulate Arrays With pop()
+- [ ] Manipulate Arrays With shift()
+- [ ] Manipulate Arrays With unshift()
+
+
+## Additions
+
+### Additional Data storing
 - [ ] Increment a Number with JavaScript
 - [ ] Decrement a Number with JavaScript
 - [ ] Decimal Reading: https://en.wikipedia.org/wiki/Floating-point_arithmetic#Accuracy_problems
 - [ ] Finding a Remainder in JavaScript (Modulus %)
 
 ## Strings (* are optional)
-- [ ] Declare String Variables (Our code conventions use single quotes)
 - [ ] Escaping Literal Quotes in Strings
 - [ ] *Quoting Strings with Single Quotes
-- [ ] Escape Sequences in Strings
-- [ ] Concatenating Strings with Plus Operator
 - [ ] Concatenating Strings with the Plus Equals Operator
 - [ ] *Constructing Strings with Variables
 - [ ] *Find the Length of a String
 - [ ] *Use Bracket Notation to Find the First Character in a String
-- [ ] Understand String Immutability
 - [ ] *Use Bracket Notation to Find the Nth Character in a String
 - [ ] Use Bracket Notation to Find the Last Character in a String (This one is good to understand 0 based length)
 - [ ] *Word Blanks (MadLibs example)
 
 ## Arrays
-- [ ] Store Multiple Values in one Variable using JavaScript Arrays (javascript allows storing multiple types. We typically store one type of data per array)
 - [ ] *Nest one Array within Another Array
-- [ ] Access Array Data with Indexes
-- [ ] Modify Array Data With Indexes (Note the connection between this and immutability of strings)
 - [ ] *Access Multi-Dimensional Arrays With Indexes
-- [ ] Manipulate Arrays With push()
-- [ ] Manipulate Arrays With pop()
-- [ ] Manipulate Arrays With shift()
-- [ ] Manipulate Arrays With unshift()
+
 - [ ] *Shopping List (Project to test array knowledge)
 
 ## Functions
-- [ ] Write Reusable JavaScript with Functions
-- [ ] Passing Values to Functions with Arguments
 - [ ] *Global Scope and Functions (Good to learn though)
 - [ ] *Understanding Undefined Value returned from a Function
-- [ ] Assignment with a Returned Value
 - [ ] *Stand in Line (arrays and function project)
 
 ## Conditions

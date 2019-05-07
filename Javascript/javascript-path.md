@@ -12,60 +12,60 @@ This is a suggested path that jumps around to try and get you what you need in t
 
 ## Primary
 
-- [ ] Declare Javascript Variables
-- [ ] Storing Values with the Assignment Operator
-- [ ] Initializing Variables with the Assignment Operator
-- [ ] Declare String Variables **_Our code conventions use single quotes_**
-- [ ] Write Reusable JavaScript with Functions
-- [ ] Passing Values to Functions with Arguments
-- [ ] Assignment with a Returned Value
-- [ ] Understanding Boolean Values
-- [ ] Use Conditional Logic with If Statements
-- [ ] Comparison with the Equality Operator
-- [ ] Comparison with the Strict Equality Operator **_We prefer strict equality_**
-- [ ] Comparisons with the Logical And Operator
-- [ ] Comparisons with the Logical Or Operator
-- [ ] Introducing Else Statements
-- [ ] Introducing Else If Statements
-- [ ] Logical Order in If Else Statements **_A little more advanced, but very imporant to keep in mind_**
-- [ ] Chaining If Else Statements
-- [ ] Use the Conditional (Ternary) Operator
-- [ ] Build JavaScript Objects
-- [ ] Accessing Object Properties with Dot Notation
-- [ ] Updating Object Properties
-- [ ] Manipulating Complex Objects **_JSON_**
-- [ ] Accessing Nested Objects
-- [ ] Understanding Uninitialized Variables
-- [ ] Understanding Case Sensitivity in Variables
-- [ ] Store Multiple Values in one Variable using JavaScript Arrays **_javascript allows storing multiple types. We typically store one type of data per array_**
-- [ ] Access Array Data with Indexes
-- [ ] Modify Array Data With Indexes **_Note the connection between this and immutability of strings_**
-- [ ] Iterate with JavaScript For Loops
-- [ ] Iterate Odd Numbers With a For Loop
-- [ ] Iterate Through an Array with a For Loop **_Although later you will learn about a method to do this differently_**
-- [ ] Explore Differences Between the var and let Keywords
-- [ ] Declare a Read-Only Variable with the const Keyword
-- [ ] Use Arrow Functions to Write Concise Anonymous Functions **_You will see lots of these_**
-- [ ] Write Arrow Functions with Parameters
-- [ ] Write Higher Order Arrow Functions **_Perhaps the most common usage of arrow functions_**
-- [ ] Understand the Differences Between import and require
-- [ ] Use export to Reuse a Code Block
-- [ ] Use * to Import Everything from a File
-- [ ] Create an Export Fallback with export default
-- [ ] Import a Default Export
-- [ ] Create Strings using Template Literals
-- [ ] Introduction to the Debugging Challenges
-- [ ] Use the JavaScript Console to Check the Value of a Variable
-- [ ] Use typeof to Check the Type of a Variable
-- [ ] Catch Misspelled Variable and Function Names
-- [ ] Catch Unclosed Parentheses, Brackets, Braces and Quotes
-- [ ] Catch Mixed Usage of Single and Double Quotes **_We prefer to use single quotes in javascript_**
-- [ ] Catch Use of Assignment Operator Instead of Equality Operator
-- [ ] Catch Missing Open and Closing Parenthesis After a Function Call
-- [ ] Catch Arguments Passed in the Wrong Order When Calling a Function
-- [ ] Catch Off By One Errors When Using Indexing
-- [ ] Use Caution When Reinitializing Variables Inside a Loop
-- [ ] Prevent Infinite Loops with a Valid Terminal Condition
+- [ ] 1 Declare Javascript Variables
+- [ ] 2 Storing Values with the Assignment Operator
+- [ ] 3 Initializing Variables with the Assignment Operator
+- [ ] 4 Declare String Variables **_Our code conventions use single quotes_**
+- [ ] 5 Write Reusable JavaScript with Functions
+- [ ] 6 Passing Values to Functions with Arguments
+- [ ] 7 Assignment with a Returned Value
+- [ ] 8 Understanding Boolean Values
+- [ ] 9 Use Conditional Logic with If Statements
+- [ ] 10 Comparison with the Equality Operator
+- [ ] 11 Comparison with the Strict Equality Operator **_We prefer strict equality_**
+- [ ] 12 Comparisons with the Logical And Operator
+- [ ] 13 Comparisons with the Logical Or Operator
+- [ ] 14 Introducing Else Statements
+- [ ] 15 Introducing Else If Statements
+- [ ] 16 Logical Order in If Else Statements **_A little more advanced, but very imporant to keep in mind_**
+- [ ] 17 Chaining If Else Statements
+- [ ] 18 Use the Conditional (Ternary) Operator
+- [ ] 19 Build JavaScript Objects
+- [ ] 20 Accessing Object Properties with Dot Notation
+- [ ] 21 Updating Object Properties
+- [ ] 22 Manipulating Complex Objects **_JSON_**
+- [ ] 23 Accessing Nested Objects
+- [ ] 24 Understanding Uninitialized Variables
+- [ ] 25 Understanding Case Sensitivity in Variables
+- [ ] 26 Store Multiple Values in one Variable using JavaScript Arrays **_javascript allows storing multiple types. We typically store one type of data per array_**
+- [ ] 27 Access Array Data with Indexes
+- [ ] 28 Modify Array Data With Indexes **_Note the connection between this and immutability of strings_**
+- [ ] 29 Iterate with JavaScript For Loops
+- [ ] 30 Iterate Odd Numbers With a For Loop
+- [ ] 31 Iterate Through an Array with a For Loop **_Although later you will learn about a method to do this differently_**
+- [ ] 32 Explore Differences Between the var and let Keywords
+- [ ] 33 Declare a Read-Only Variable with the const Keyword
+- [ ] 34 Use Arrow Functions to Write Concise Anonymous Functions **_You will see lots of these_**
+- [ ] 35 Write Arrow Functions with Parameters
+- [ ] 36 Write Higher Order Arrow Functions **_Perhaps the most common usage of arrow functions_**
+- [ ] 37 Understand the Differences Between import and require
+- [ ] 38 Use export to Reuse a Code Block
+- [ ] 39 Use * to Import Everything from a File
+- [ ] 40 Create an Export Fallback with export default
+- [ ] 41 Import a Default Export
+- [ ] 42 Create Strings using Template Literals
+- [ ] 43 Introduction to the Debugging Challenges
+- [ ] 44 Use the JavaScript Console to Check the Value of a Variable
+- [ ] 45 Use typeof to Check the Type of a Variable
+- [ ] 46 Catch Misspelled Variable and Function Names
+- [ ] 47 Catch Unclosed Parentheses, Brackets, Braces and Quotes
+- [ ] 48 Catch Mixed Usage of Single and Double Quotes **_We prefer to use single quotes in javascript_**
+- [ ] 49 Catch Use of Assignment Operator Instead of Equality Operator
+- [ ] 50 Catch Missing Open and Closing Parenthesis After a Function Call
+- [ ] 51 Catch Arguments Passed in the Wrong Order When Calling a Function
+- [ ] 52 Catch Off By One Errors When Using Indexing
+- [ ] 53 Use Caution When Reinitializing Variables Inside a Loop
+- [ ] 54 Prevent Infinite Loops with a Valid Terminal Condition
 
 ## Supplimentary
 By this point you should have a good understanding to tackle the following lessons in any order

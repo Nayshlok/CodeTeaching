@@ -13,4 +13,6 @@ To get started with this checklist of resources you can follow these instruction
 4. Find the item you finished, and replace the space in between `[]` with a `X` so it looks like `- [X]`. Once saved it will display a checked box. At the bottom write a short message of what you accomplished so you can look back, then commit. In this instance it is okay to commit directly to master.
 ![Marking off items](Images/MarkOffItems.png)
 
+If you find something missing that you feel would be valuable, create an issue following [these instructions.](./suggestions.md)
+
 - [ ] Get started with the learning project

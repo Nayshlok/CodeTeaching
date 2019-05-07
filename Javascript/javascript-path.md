@@ -22,6 +22,7 @@ This is a suggested path that jumps around to try and get you what you need in t
 - [ ] Understanding Boolean Values
 - [ ] Use Conditional Logic with If Statements
 - [ ] Comparison with the Equality Operator
+- [ ] Comparison with the Strict Equality Operator **_We prefer strict equality_**
 - [ ] Comparisons with the Logical And Operator
 - [ ] Comparisons with the Logical Or Operator
 - [ ] Introducing Else Statements
@@ -104,7 +105,6 @@ By this point you should have a good understanding to tackle the following lesso
 - [ ] *Stand in Line **_arrays and function project_**
 
 ### Conditions
-- [ ] Comparison with the Strict Equality Operator **_We prefer strict equality_**
 - [ ] Comparison with the Inequality Operator **_Fun tidbit, we refer to ! as Bang. Exclamation is too many sylabols_**
 - [ ] Comparison with the Strict Inequality Operator **_Again prefer strict comparisons_**
 - [ ] *Comparison with the Greater Than Operator

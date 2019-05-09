@@ -16,3 +16,5 @@ To get started with this checklist of resources you can follow these instruction
 If you find something missing that you feel would be valuable, create an issue following [these instructions.](./suggestions.md)
 
 - [ ] Get started with the learning project
+
+After you fork and there are updates to this repository, you can update your version by following the instructions [here](https://stackoverflow.com/questions/20984802/how-can-i-keep-my-fork-in-sync-without-adding-a-separate-remote/21131381#21131381)

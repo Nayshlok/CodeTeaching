@@ -1,6 +1,6 @@
 # Coding Resources
 
-The intention of this project is to help you be able to learn the code necessary to perform your job to the highest ability.
+The intention of this project is to help you be able to learn the code necessary to be a developer.
 
 [Getting Started](Git/getting-started.md)
 
